@@ -1,0 +1,27 @@
+{
+  "name": "cv-example",
+  "version": "1.0.0",
+  "description": "Plantilla de CV para una Single-Page-Aplication",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BGEscalante/cv-example.git"
+  },
+  "keywords": [
+    "cv",
+    "template",
+    "developer"
+  ],
+  "author": "BryanEsc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BGEscalante/cv-example/issues"
+  },
+  "homepage": "https://github.com/BGEscalante/cv-example#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
